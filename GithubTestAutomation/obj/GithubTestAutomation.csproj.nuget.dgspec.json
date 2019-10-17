@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Globalti\\Pictures\\GithubTestAutomation\\GithubTestAutomation\\GithubTestAutomation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Globalti\\Pictures\\GithubTestAutomation\\GithubTestAutomation\\GithubTestAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Globalti\\Pictures\\GithubTestAutomation\\GithubTestAutomation\\GithubTestAutomation.csproj",
+        "projectName": "GithubTestAutomation",
+        "projectPath": "C:\\Users\\Globalti\\Pictures\\GithubTestAutomation\\GithubTestAutomation\\GithubTestAutomation.csproj",
+        "packagesPath": "C:\\Users\\Globalti\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Globalti\\Pictures\\GithubTestAutomation\\GithubTestAutomation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Globalti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "Selenium.Chrome.WebDriver": {
+              "target": "Package",
+              "version": "[76.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[77.0.3865.4000, )"
+            },
+            "WebDriver.ChromeDriver.win32": {
+              "target": "Package",
+              "version": "[76.0.3809.68, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

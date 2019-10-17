@@ -1,0 +1,16 @@
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\GithubTestAutomation.exe
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\obj\Debug\netcoreapp3.0\GithubTestAutomation.csprojAssemblyReference.cache
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\obj\Debug\netcoreapp3.0\GithubTestAutomation.AssemblyInfoInputs.cache
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\obj\Debug\netcoreapp3.0\GithubTestAutomation.AssemblyInfo.cs
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\WebDriver.dll
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\obj\Debug\netcoreapp3.0\GithubTestAutomation.csproj.CopyComplete
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\WebDriver.Support.dll
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\GithubTestAutomation.deps.json
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\GithubTestAutomation.runtimeconfig.json
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\GithubTestAutomation.runtimeconfig.dev.json
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\GithubTestAutomation.dll
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\bin\Debug\netcoreapp3.0\GithubTestAutomation.pdb
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\obj\Debug\netcoreapp3.0\GithubTestAutomation.dll
+C:\Users\Globalti\Pictures\GithubTestAutomation\GithubTestAutomation\obj\Debug\netcoreapp3.0\GithubTestAutomation.pdb
